@@ -58,11 +58,8 @@ if(isset($_REQUEST["submit"]))
             {
                 if($myjsonobject->Username==$_REQUEST["un"] && ($myjsonobject->Password == $_REQUEST["password"]))
                 { 
-                  echo "WELCOME...You have Successfully logged in <br>";
-                 
-                  $_SESSION["un"]=$_POST['un'];
-                  $_SESSION["password"]=$_POST['password'];
-                  header("location:../View/PatientProfile.php");
+                   echo "Login Successfull <br>";
+              return;
                   }
                  
                 }
