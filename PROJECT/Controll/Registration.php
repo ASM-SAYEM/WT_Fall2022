@@ -101,7 +101,7 @@ if(isset($_REQUEST["Gender"]))
     }
 }
 else{
-    echo "<b>radio is not checked</b>";
+    //echo "<b>radio is not checked</b>";
     echo"<br>";
 }
 
@@ -277,7 +277,7 @@ if(isset($_REQUEST["Doctor"]))
    
 }
 else{
-    echo "<b>checkbox is not checked</b>";
+    //echo "<b>checkbox is not checked</b>";
     echo"<br>";
 }
 
