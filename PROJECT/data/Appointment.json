@@ -1,31 +1,12 @@
 [
     {
         "Patient name:": "SAYEM",
-        "Specialist": null,
-        "Specialist:": null,
-        "Prefereble doctor": null
+        "Specialist": "Cardiologists",
+        "Prefereble doctor": "SAYEM"
     },
     {
-        "Patient name:": "SAYEM",
-        "Specialist": null,
-        "Specialist:": null,
-        "Prefereble doctor": null
-    },
-    {
-        "Patient name:": "SAYEM",
-        "Specialist": null,
-        "Specialist:": null,
-        "Prefereble doctor": null
-    },
-    {
-        "Patient name:": "SAYEM",
-        "Specialist": null,
-        "Specialist:": null,
-        "Prefereble doctor": null
-    },
-    {
-        "Patient name:": "SAYEM",
-        "Specialist": null,
+        "Patient name:": "Anik",
+        "Specialist": "Cardiologists",
         "Prefereble doctor": "SAYEM"
     }
 ]
